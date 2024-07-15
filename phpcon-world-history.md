@@ -82,7 +82,15 @@
   * Japan PHP User Group
 ## 2015
 ## 2016
+* International PHP Conference 2016 Munich
+  * 2016-10-23 to 2016-10-28
 ## 2017
+* International PHP Conference Spring 2017
+  * 2017-05-29 to 2017-06-02
+  * Berlin
+* International PHP Conference 2017
+  * 2017-10-23 to 2017-10-27
+  * Munich
 ## 2018
 ## 2019
 ## 2020
